@@ -1,5 +1,8 @@
-请使用Issues:https://github.com/softwarebuy/-/issues 作为沟通的平台
-禁止发布违法的信息  
+>爬虫群BBS
+
+请使用Issues:https://github.com/softwarebuy/-/issues   
+作为沟通的平台  
+(严禁发布违法的信息)
 
 建议内容  
 1.群的发展建议等  
